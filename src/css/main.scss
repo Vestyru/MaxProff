@@ -1178,7 +1178,7 @@ input:checked + label::before {
 		background-color: #555555;
 		&::before {
 			content: '';
-			background-image: url(../src/icons/player.svg);
+			background-image: url(../../src/icons/player.svg);
 			position: absolute;
 			width: 60px;
 			height: 60px;
